@@ -1,0 +1,2 @@
+./bin,com.pastores.IABasica
+./bin,com.pastores.IABasica
