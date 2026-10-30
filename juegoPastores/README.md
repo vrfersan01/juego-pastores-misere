@@ -41,7 +41,7 @@ Las IAs se configuran en `resources/rutas.txt`, con dos líneas, una por jugador
 ./bin,com.pastores.IAAvanzada
 ```
 
-Si solo quieres usar una IA, repite la misma línea (`resources/rutas.txt` , por defecto, comienza solo con dos IAs básica).
+Si solo quieres usar una IA, repite la misma línea (`resources/rutas.txt` , por defecto, comienza solo con dos IAs básicas).
 
 ## Las IAs incluidas
 
@@ -60,7 +60,6 @@ El protocolo es independiente del lenguaje, pero el árbitro actual solo sabe la
 
 ## Qué mejoraría
 
-- Contar la paridad de las filas de 1 piedra para que la IA avanzada juegue el final sin errores.
 - Un menú para elegir qué dos IAs enfrentar cuando `rutas.txt` tiene varias.
 
 ## Origen del proyecto
